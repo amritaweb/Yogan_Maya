@@ -53,7 +53,7 @@
                            <div class="form-group-requird">
                               <label for="course-name">Select Program</label>
                               <select class="form-control" name="program" id="course-name" required>
-                                 <option selected>Chosee...</option>
+                                 <option selected>Choose...</option>
                                  <option value ="100 Hour Yoga TTCin English">100 Hour Yoga TTCin English</option>
                                  <option value ="200 Hour Yoga TTCin English">200 Hour Yoga TTCin English</option>
                                  <option value ="300 Hour Yoga TTCin English">300 Hour Yoga TTCin English</option>
@@ -66,7 +66,7 @@
                            <div class="form-group-requird">
                               <label for="course-date">Select Month</label>
                               <select class="form-control" name="month" id="course-date" required>
-                                 <option selected>Chosee...</option>
+                                 <option selected>Choose...</option>
                                  <option value ="January">January</option>
                                  <option value ="February">February</option>
                                  <option value ="March">March</option>
@@ -102,7 +102,7 @@
                            <div class="form-group-requird">
                               <label for="Accommodation">Accommodation</label>
                               <select class="form-control" name="accommodation" id="Accommodation" required>
-                                 <option selected>Chosee...</option>
+                                 <option selected>Choose...</option>
                                  <option value ="Private-Room">Private Room</option>
                                  <option value ="Twin-shared-Room">Twin Shared Room</option>
                                  <option value ="4th Shared Room">4th Shared Room</option>
